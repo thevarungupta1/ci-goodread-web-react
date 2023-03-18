@@ -1,0 +1,14 @@
+.wrapper {
+  background-color: #fff;
+  margin-top: 20px;
+  padding: 20px;
+}
+
+.author{
+    color: #888;
+    font-size: 24px
+}
+
+.img-responsive{
+    width: 300px !important;
+}
